@@ -13,7 +13,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yehuo.icu/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to LouisBrilliant's github');Just Do IT!&center=true&size=35" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to Louis's github');Just Do IT!&center=true&size=35" alt="Typing SVG" />
     </a>
   </div>
 
@@ -74,5 +74,5 @@
 
 
 ## 今年汇总 ✨
-![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrrrrrrrr&show_icons=true&count_private=true&hide=prs&theme=dracula)
+![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrrrrrrrr&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
