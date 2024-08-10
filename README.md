@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=GZUCMHjy)
 ![](http://antzuhl.cn:4000/get/@GZUCMHjy)
 ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GZUCMHjy&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
