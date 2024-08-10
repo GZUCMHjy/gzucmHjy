@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=GZUCMHjy)
-![](http://antzuhl.cn:4000/get/@GZUCMHjy)
+### 技能树(My Skills)
+![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vite,webpack,vue,react,electron,express,nodejs,nestjs,pinia,nuxtjs,d3) </br>
+![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua)
+### github提交卡片
 ![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GZUCMHjy&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 
