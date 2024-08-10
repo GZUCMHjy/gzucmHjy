@@ -74,5 +74,5 @@
 
 
 ## 今年汇总 ✨
-![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrrrrrrrr&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
+![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GZUCMHjy&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
 
