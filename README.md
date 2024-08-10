@@ -10,7 +10,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://gzucmhjy.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to Louis's github')&center=true&size=35" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.print('Welcome to Louis's github')&center=true&size=50" alt="Typing SVG" />
     </a>
   </div>
 </div>
