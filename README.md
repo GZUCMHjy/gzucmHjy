@@ -5,20 +5,14 @@
 - 🎧 我喜欢的音乐有：[`整点薯条`](https://music.163.com/song?id=2095012826&userid=5049205610) [`Solider`](https://music.163.com/song?id=27969800&userid=5049205610) [`多远都要在一起`](https://music.163.com/song?id=30612793&userid=5049205610)
 - 🏀⚽🏓 我擅长的运动：`篮球` `足球` `乒乓球` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://yehuo.icu/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to Louis's github');Just Do IT!&center=true&size=35" alt="Typing SVG" />
+    <a href="https://gzucmhjy.github.io/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to Louis's github')&center=true&size=35" alt="Typing SVG" />
     </a>
   </div>
-
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-![](https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/main/assets/github-contribution-grid-snake.svg)
 </div>
 <div align="center" >
 <!--  skill badge 技能徽章 -->
