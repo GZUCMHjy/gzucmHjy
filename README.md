@@ -13,7 +13,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://yehuo.icu/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to LouisBrilliant's github');Just Do IT!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=840&lines=System.out.println('welcome to LouisBrilliant's github');Just Do IT!&center=true&size=35" alt="Typing SVG" />
     </a>
   </div>
 
@@ -24,7 +24,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/output/github-contribution-grid-snake.svg">
 </picture>
 
-~吃! 随便吃! 本来也没多少~
 
 </div>
 <div align="center" >
@@ -55,7 +54,7 @@
 ![PostMan Badge](https://img.shields.io/badge/PostMan-oriange?logo=postman&logoColor=fff&style=flat)
 <img src="https://skillicons.dev/icons?i=java,redis,vue,spring,ts,mysql,idea,webstorm,git,apple,github,postman" /><br>
 <!-- programming tool icon 编程工具图标
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<img src="https://skillicons.dev/icons?i=ai,c,cpp,cs,python,java,chatgpt,mongodb,idea,git,elasticsearch,rabbitMq,xxl-job" /><br>
  -->
 <!--
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -67,7 +66,6 @@
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 -->
 
@@ -76,5 +74,5 @@
 
 
 ## 今年汇总 ✨
+![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xrrrrrrrr&show_icons=true&count_private=true&hide=prs&theme=dracula)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=GZUCMHjy&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GZUCMHjy&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
