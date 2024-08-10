@@ -1,7 +1,7 @@
 ##  &nbsp; 我是Louis :fire:
 - :zap: 双一流 25届毕业生 Java开发 or 全栈？
 - :rainbow: 个人博客：[`louis的个人博客`](https://blog.csdn.net/weixin_63549044) 
-- ⭐️ 项目集：[`岐伯曰助手`](https://github.com/GZUCMHjy/XiaoQi/) [`编医智汇`](https://github.com/GZUCMHjy/yh-oj-backend/) [`高校智慧调度危化品管理平台(兼安卓)`]([https://github.com/GZUCMHjy/uwws-frontend/](https://github.com/GZUCMHjy/hcms-backend))
+- ⭐️ 项目集：[`岐伯曰助手`](https://github.com/GZUCMHjy/XiaoQi/) [`编医智汇`](https://github.com/GZUCMHjy/louisoj-frontend)/) [`高校智慧调度危化品管理平台(兼安卓)`](https://github.com/GZUCMHjy/hcms-backend)
 - 🎧 我喜欢的音乐有：[`整点薯条`](https://music.163.com/song?id=2095012826&userid=5049205610) [`Solider`](https://music.163.com/song?id=27969800&userid=5049205610) [`多远都要在一起`](https://music.163.com/song?id=30612793&userid=5049205610)
 - 🏀⚽🏓 我擅长的运动：`篮球` `足球` `乒乓球` <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fish.png" alt="Fish" width="25" height="25" align="absmiddle" />
 
