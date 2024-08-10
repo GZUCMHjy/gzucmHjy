@@ -18,13 +18,7 @@
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/main/assets/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/main/assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/main/assets/github-contribution-grid-snake.svg">
-</picture>
-
-
+![](https://raw.githubusercontent.com/GZUCMHjy/GZUCMHjy/main/assets/github-contribution-grid-snake.svg)
 </div>
 <div align="center" >
 <!--  skill badge 技能徽章 -->
