@@ -21,15 +21,9 @@
 <!-- ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat) -->
 <!-- ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) -->
 <!-- ![Shell Badge](https://img.shields.io/badge/Shell-41CD52?logo=shell&logoColor=fff&style=flat) -->
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=flat)
-![Sql Badge](https://img.shields.io/badge/MySql-47A248?logo=mysql&logoColor=fff&style=flat)
-![Java Badge](https://img.shields.io/badge/JAVA-092E20?logo=java&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=fff&style=flat)
-  
+![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
+![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack,vercel,vite)
 🧰 常用的工具
 <!-- ![PyCharm Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=pycharm&logoColor=fff&style=flat) -->
 
