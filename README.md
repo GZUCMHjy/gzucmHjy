@@ -23,7 +23,8 @@
 <!-- ![Shell Badge](https://img.shields.io/badge/Shell-41CD52?logo=shell&logoColor=fff&style=flat) -->
 ![My Skills](https://skillicons.dev/icons?i=html,bootstrap,javascript,ts,vue,react,redux,nodejs,nestjs,pinia,nuxtjs,nextjs,d3) </br>
 ![My Skills](https://skillicons.dev/icons?i=java,maven,spring,mysql,redis,rabbitmq,nginx,kafka,docker,k8s,jenkins,elasticsearch,git) </br>
-![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack,vercel,vite)
+![My Skills](https://skillicons.dev/icons?i=python,django,flask,anaconda,fastapi,php,laravel,lua,electron,express,webpack,vercel,vite) </br>
+
 🧰 常用的工具
 <!-- ![PyCharm Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=pycharm&logoColor=fff&style=flat) -->
 
